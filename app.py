@@ -49,7 +49,7 @@ div.stButton > button:hover {
 # Application heading
 st.title("🎓 Student Profile Application")
 
-st.subheader("Developed by Student Name")
+st.Caption("Deekshith M")
 
 st.info("Fill in your details and click View My Profile.")
 
